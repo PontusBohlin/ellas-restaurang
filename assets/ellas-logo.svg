@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 160" role="img" aria-labelledby="title desc">
+  <title id="title">Ella's Kök – pizza, kolgrill och restaurang</title>
+  <desc id="desc">A warm restaurant logo with a pizza slice, flame and the words Ella's Kök.</desc>
+  <defs>
+    <linearGradient id="pizza" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#f4bd55"/>
+      <stop offset="1" stop-color="#d98932"/>
+    </linearGradient>
+    <linearGradient id="fire" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#f6c763"/>
+      <stop offset="1" stop-color="#c94c2f"/>
+    </linearGradient>
+  </defs>
+  <rect width="560" height="160" rx="22" fill="#1e1d1a"/>
+  <rect x="8" y="8" width="544" height="144" rx="17" fill="none" stroke="#dca84b" stroke-width="2" opacity=".72"/>
+  <g transform="translate(34 28)">
+    <path d="M70 5c22 13 35 35 37 64L36 89C34 55 46 26 70 5Z" fill="url(#pizza)" stroke="#fff0c7" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M36 89 107 69c2 8-1 18-9 21L49 104c-8 2-14-5-13-15Z" fill="#b85832"/>
+    <circle cx="69" cy="48" r="7" fill="#a83d2e"/><circle cx="83" cy="69" r="6" fill="#a83d2e"/><circle cx="54" cy="70" r="5" fill="#a83d2e"/>
+    <path d="M115 83c-1-17 14-24 9-42 15 11 18 26 11 39 9-2 15-9 17-17 8 17 1 35-14 41-12 5-24-3-23-21Z" fill="url(#fire)"/>
+  </g>
+  <g fill="#fffaf0">
+    <text x="190" y="76" font-family="Georgia, serif" font-size="60" font-weight="700" letter-spacing="-2">Ella’s Kök</text>
+    <text x="194" y="111" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4.5" fill="#f0c76d">PIZZA · KOLGRILL · LUNCH</text>
+  </g>
+  <path d="M194 125h314" stroke="#7f9c71" stroke-width="4" stroke-linecap="round"/>
+</svg>
